@@ -42,7 +42,7 @@
             const word = wordlist[index];
             passphrase += word.charAt(0).toUpperCase() + word.slice(1);
         }
-        console.log('%c' + passphrase, 'font-size: 10px; padding: 0; margin: -1px;');
+        
         return passphrase;
     }
 })();
