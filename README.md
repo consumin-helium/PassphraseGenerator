@@ -15,7 +15,7 @@ Once you have a userscript manager installed, you can install the Passphrase Gen
 
 ## Usage
 
-To generate a passphrase, navigate to a webpage with an input field and click on the field to select it. Then, right-click anywhere on the page and select "Generate Passphrase" from the context menu: ContextMenu -> Tampermonkey -> Passphrase Generator -> Generate passphrase. If the selected input field has the type attribute set to password, the generated passphrase will be typed as a password. The passphrase will also be copied to the clipboard.
+To generate a passphrase, navigate to a webpage with an input field and click on the field to select it. Then, right-click anywhere on the page and select "Generate Passphrase" from the context menu: Right-click -> Tampermonkey -> Passphrase Generator -> Generate passphrase. If the selected input field has the type attribute set to password, the generated passphrase will be typed as a password. The passphrase will also be copied to the clipboard.
 
 If the selected input field has the type attribute set to password, the generated passphrase will be typed as a password.
 
