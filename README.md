@@ -6,12 +6,7 @@ This is a userscript that generates a passphrase for input fields using a hardco
 
 To use this script, you need to have a userscript manager installed in your browser. One popular userscript manager is Tampermonkey, which is available for Chrome, Firefox, Safari, and other browsers. 
 
-Once you have a userscript manager installed, you can install the Passphrase Generator script by following these steps:
-
-1. Click on the Tampermonkey icon in your browser toolbar.
-2. Click on "Create a new script".
-3. Copy the contents of the PassphraseGenerator.js file and paste it into the editor.
-4. Save the script by pressing Ctrl+S or clicking on "File" > "Save".
+- Current install version: https://greasyfork.org/scripts/477122-passphrase-generator/code/Passphrase%20Generator.user.js
 
 ## Usage
 
