@@ -4,7 +4,7 @@ This is a userscript that generates a passphrase for input fields using a hardco
 
 ## Installation
 
-To use this script, you need to have a userscript manager installed in your browser. One popular userscript manager is Tampermonkey, which is available for Chrome, Firefox, Safari, and other browsers.
+To use this script, you need to have a userscript manager installed in your browser. One popular userscript manager is Tampermonkey, which is available for Chrome, Firefox, Safari, and other browsers. 
 
 Once you have a userscript manager installed, you can install the Passphrase Generator script by following these steps:
 
